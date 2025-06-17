@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e1h6iaNDJQVAy4rvPyE1IFZsqdaSGm+2GumANY3JOU0=",
+  "Source": "StudentScoreAPI",
+  "BasePath": "_content/StudentScoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
